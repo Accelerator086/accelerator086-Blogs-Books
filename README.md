@@ -16,4 +16,6 @@
 - Analysis of Financial Time Series: https://accelerator086.github.io/accelerator086-Blogs-Books/Analysis of Financial Time Series.pdf
 - 时间序列分析-基于R：https://accelerator086.github.io/accelerator086-Blogs-Books/时间序列分析-基于R 王燕.pdf
 - 时间序列分析及应用：R语言：https://accelerator086.github.io/accelerator086-Blogs-Books/时间序列分析及应用：R语言.pdf
+- An Introduction to Analysis of Financial Data with R：https://accelerator086.github.io/accelerator086-Blogs-Books/An Introduction to Analysis of Financial Data with R.pdf
+- 金融数据分析导论：基于R语言：https://accelerator086.github.io/accelerator086-Blogs-Books/金融数据分析导论：基于R语言.pdf
 
