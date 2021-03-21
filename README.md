@@ -14,4 +14,6 @@
 - Paul Wilmott on Quantitative Finance: https://accelerator086.github.io/accelerator086-Blogs-Books/Paul Wilmott on Quantitative Finance - Paul Wilmott.pdf
 - Mathematical Models of Financial Derivatives: https://accelerator086.github.io/accelerator086-Blogs-Books/Mathematical Models of Financial Derivatives - Yue Kuen Kwok.pdf
 - Analysis of Financial Time Series: https://accelerator086.github.io/accelerator086-Blogs-Books/Analysis of Financial Time Series.pdf
+- 时间序列分析-基于R：https://accelerator086.github.io/accelerator086-Blogs-Books/时间序列分析-基于R 王燕.pdf
+- 时间序列分析及应用：R语言：https://accelerator086.github.io/accelerator086-Blogs-Books/时间序列分析及应用：R语言.pdf
 
